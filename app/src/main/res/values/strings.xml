@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="poll_alarm">poll_alarm</string>
+    <string name="set_alarm">set_alarm</string>
+</resources>
